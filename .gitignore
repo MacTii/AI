@@ -182,3 +182,8 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
+
+# Ignore all .png and .jpg files
+*.png
+*.jpg
+*.jpeg
